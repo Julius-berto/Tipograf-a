@@ -1,0 +1,40 @@
+/*
+1.-family=Clicker+Script
+2.-family=PLayfair
+3.-family=Walter+Turncoat
+4.-family=Shadows+Into+Light
+*/
+
+body{
+    max-width: 1200px;
+    background: darkmagenta;
+    margin: auto;
+    font-size: clamp(1em, 3vw, 3em);
+}
+
+h1{
+    color: white;
+    font-family: 'Playfair';
+}
+
+h3{
+    color: cyan;
+    font-family: 'Clicker Script';
+
+}
+
+p{
+    color: yellow;
+    font-family: 'Walter Turncoat';
+}
+
+.caja_img{
+    width: 90%;
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    color: greenyellow;
+    font-size: ;
+}
